@@ -2,6 +2,9 @@ package com.codeWithPiesie;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        TextBox textBox1 = new TextBox();
+        textBox1.setText("Hello");
+        System.out.println(textBox1.text);
     }
 }
