@@ -1,5 +1,13 @@
 package com.codeWithPiesie;
 
 public class TextBox {
-    public String Text; // Field
+    public String text; // Field
+
+    public void setText(String text) {
+        this.text = text;
+    }
+
+    public  void clear() {
+        text = "";
+    }
 }
