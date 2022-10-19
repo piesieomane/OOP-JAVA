@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="929fdfb7-8cb6-4ef4-a9fd-4b9c3b1e8a9e" name="Changes" comment="" />
+    <list default="true" id="929fdfb7-8cb6-4ef4-a9fd-4b9c3b1e8a9e" name="Changes" comment="Add workspace file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +44,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666002470611</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add workspace file">
+      <created>1666176689078</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666176689078</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -59,5 +67,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Add workspace file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add workspace file" />
   </component>
 </project>
