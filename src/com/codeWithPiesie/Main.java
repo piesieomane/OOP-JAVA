@@ -8,7 +8,7 @@ public class Main {
 //        int wage = employee.calculateWage(20);
 //        System.out.println(wage);
         var browser = new Browser();
-        browser.
+        browser.navigate("5454");
 
 
     }
